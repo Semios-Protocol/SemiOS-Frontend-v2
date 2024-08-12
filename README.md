@@ -1,3 +1,6 @@
+[![CI](https://github.com/Semios-Protocol/SemiOS-Frontend-v2/actions/workflows/ci.yml/badge.svg)][gh-ci]
+[![License](https://img.shields.io/badge/License-MIT-orange.svg)][mit-license]
+[![Chat][tg-badge]][tg-url]
 <h1 align="center">Semios</h1>
 
 <p align="center">
